@@ -1,0 +1,10 @@
+{
+  "name": "der-die-das",
+  "version": "1.0.0",
+  "bin": {
+    "ddd": "./index.js"
+  },
+  "engines": {
+    "node": ">= 18.0"
+  }
+}
